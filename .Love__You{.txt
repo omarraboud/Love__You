@@ -1,0 +1,8 @@
+.Love__You{
+margin: 0;
+padding: 0;
+background: #F5E8DC;
+font-family: 'Love';
+color: #5C4033;
+overflow: auto;
+}
